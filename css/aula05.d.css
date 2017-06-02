@@ -1,0 +1,31 @@
+/*aula04*/
+body{
+	background:#000;
+}
+p{
+	white-space: pre-wrap;
+	color: #fff;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+a:visited,h3{
+	color:red;
+
+}
+a:hover{
+	color:blue;
+
+}
+video{
+	position:fixed;
+	left: 60%;
+	bottom: 500px;
+
+}
+img{
+	position: fixed;
+	left: 60%;
+	bottom: 200px;
+}
